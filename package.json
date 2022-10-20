@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-vue-enhance",
-  "version": "9.6.1",
+  "version": "9.6.5",
   "description": "Forked Version of `eslint-plugin-vue`",
   "main": "lib/index.js",
   "scripts": {
