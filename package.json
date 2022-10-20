@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin-vue",
-  "version": "9.6.0",
-  "description": "Official ESLint plugin for Vue.js",
+  "name": "eslint-plugin-vue-enhance",
+  "version": "9.6.1",
+  "description": "Forked Version of `eslint-plugin-vue`",
   "main": "lib/index.js",
   "scripts": {
     "new": "node tools/new-rule.js",
@@ -42,10 +42,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/eslint-plugin-vue.git"
+    "url": "git+https://github.com/youxingz/eslint-plugin-vue.git"
   },
   "bugs": {
-    "url": "https://github.com/vuejs/eslint-plugin-vue/issues"
+    "url": "https://github.com/youxingz/eslint-plugin-vue/issues"
   },
   "engines": {
     "node": "^14.17.0 || >=16.0.0"

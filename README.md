@@ -1,9 +1,9 @@
-# eslint-plugin-vue
+# eslint-plugin-vue-enhance
 
-[![NPM version](https://img.shields.io/npm/v/eslint-plugin-vue.svg?style=flat)](https://npmjs.org/package/eslint-plugin-vue)
-[![NPM downloads](https://img.shields.io/npm/dm/eslint-plugin-vue.svg?style=flat)](https://npmjs.org/package/eslint-plugin-vue)
-[![CircleCI](https://img.shields.io/circleci/project/github/vuejs/eslint-plugin-vue/master.svg?style=flat)](https://circleci.com/gh/vuejs/eslint-plugin-vue)
-[![License](https://img.shields.io/github/license/vuejs/eslint-plugin-vue.svg?style=flat)](https://github.com/vuejs/eslint-plugin-vue/blob/master/LICENSE)
+[![NPM version](https://img.shields.io/npm/v/eslint-plugin-vue-enhance.svg?style=flat)](https://npmjs.org/package/eslint-plugin-vue-enhance)
+[![NPM downloads](https://img.shields.io/npm/dm/eslint-plugin-vue-enhance.svg?style=flat)](https://npmjs.org/package/eslint-plugin-vue-enhance)
+[![CircleCI](https://img.shields.io/circleci/project/github/vuejs/eslint-plugin-vue-enhance/master.svg?style=flat)](https://circleci.com/gh/vuejs/eslint-plugin-vue-enhance)
+[![License](https://img.shields.io/github/license/vuejs/eslint-plugin-vue-enhance.svg?style=flat)](https://github.com/vuejs/eslint-plugin-vue-enhance/blob/master/LICENSE)
 
 > Official ESLint plugin for Vue.js
 
@@ -17,7 +17,7 @@ This plugin follows [Semantic Versioning](https://semver.org) and [ESLint's Sema
 
 ## :newspaper: Releases
 
-This project uses [GitHub Releases](https://github.com/vuejs/eslint-plugin-vue/releases).
+This project uses [GitHub Releases](https://github.com/youxingz/eslint-plugin-vue-enhance/releases).
 
 ## :beers: Contribution Guide
 
@@ -38,11 +38,11 @@ To learn more about certain nodes in a produced AST, see the [ESTree project pag
 - `context.parserServices.defineTemplateBodyVisitor(visitor, scriptVisitor)`
 - `context.parserServices.getTemplateBodyTokenStore()`
 
-Check out an [example rule](https://github.com/vuejs/eslint-plugin-vue/blob/master/lib/rules/mustache-interpolation-spacing.js) to see usage of these services.
+Check out an [example rule](https://github.com/youxingz/eslint-plugin-vue-enhance/blob/master/lib/rules/mustache-interpolation-spacing.js) to see usage of these services.
 
-Be aware that depending on the code samples you write in tests, the `RuleTester` parser property must be set accordingly (this can be done on a test by test basis). See an [example here](https://github.com/vuejs/eslint-plugin-vue/blob/master/tests/lib/rules/attribute-hyphenation.js#L19).
+Be aware that depending on the code samples you write in tests, the `RuleTester` parser property must be set accordingly (this can be done on a test by test basis). See an [example here](https://github.com/youxingz/eslint-plugin-vue-enhance/blob/master/tests/lib/rules/attribute-hyphenation.js#L19).
 
-If you're stuck, remember there are many rules available for reference. If you can't find the right solution, don't hesitate to reach out in [issues](https://github.com/vuejs/eslint-plugin-vue/issues) – we're happy to help!
+If you're stuck, remember there are many rules available for reference. If you can't find the right solution, don't hesitate to reach out in [issues](https://github.com/youxingz/eslint-plugin-vue-enhance/issues) – we're happy to help!
 
 ## :lock: License
 
