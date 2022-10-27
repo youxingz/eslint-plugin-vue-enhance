@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-vue-enhance",
-  "version": "9.6.6",
+  "version": "9.6.7",
   "description": "Forked Version of `eslint-plugin-vue`",
   "main": "lib/index.js",
   "scripts": {
@@ -38,10 +38,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youxingz/eslint-plugin-vue.git"
+    "url": "git+https://github.com/youxingz/eslint-plugin-vue-enhance.git"
   },
   "bugs": {
-    "url": "https://github.com/youxingz/eslint-plugin-vue/issues"
+    "url": "https://github.com/youxingz/eslint-plugin-vue-enhance/issues"
   },
   "engines": {
     "node": "^14.17.0 || >=16.0.0"
