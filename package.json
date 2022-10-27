@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-vue-enhance",
-  "version": "9.6.5",
+  "version": "9.6.6",
   "description": "Forked Version of `eslint-plugin-vue`",
   "main": "lib/index.js",
   "scripts": {
@@ -34,11 +34,7 @@
     "vuejs",
     "rules"
   ],
-  "author": "Toru Nagashima (https://github.com/mysticatea)",
-  "contributors": [
-    "Michał Sajnóg <msajnog93@gmail.com> (https://github.com/michalsnik)",
-    "Yosuke Ota (https://github.com/ota-meshi)"
-  ],
+  "author": "YouxingZ <youxingzeta@gmail.com> (https://github.com/youxingz)",
   "license": "MIT",
   "repository": {
     "type": "git",
